@@ -1,8 +1,8 @@
-﻿\# Coxinha
+﻿# Coxinha
 
-\## Ingredientes
+## Ingredientes
 
-- \*\*Massa:\*\*
+- **Massa:**
 
 - 2 litros de água
 
@@ -16,7 +16,7 @@
 
 - 1 colher de colorífico
 
-- \*\*Recheio:\*\*
+- **Recheio:**
 
 - 1 kg de peito de frango cozido e desfiado
 
@@ -34,7 +34,7 @@
 
 - óleo ou azeite de oliva
 
-- \*\*Para empanar:\*\*
+- **Para empanar:**
 
 - 2 claras
 
@@ -46,9 +46,9 @@
 
 - 2 kg de farinha de pão
 
-\## Modo de preparo
+## Modo de preparo
 
-1. \*\*Para a massa:\*\*
+1. **Para a massa:**
 
 1. Em uma panela, junte a água (de preferência a água que cozinhou o frango), os dois caldos de galinha, a margarina, o sal e o colorífico.
 
@@ -60,19 +60,19 @@
 
 1. Deixe esfriar e vá sovando a massa constantemente para não criar casca.
 
-1. \*\*Para o recheio:\*\*
+1. **Para o recheio:**
 
 1. Em uma panela com óleo ou azeite, adicione o alho amassado, a pimenta vermelha picada e a cebola picada, frite tudo até dourar, junte o peito de frango cozido e desfiado e refogue por alguns minutos. Junte o sal e o colorífico.
 
 1. Desligue o fogo e acrescente a salsinha picada, misture bem e deixe esfriar.
 
-1. \*\*Para a montagem:\*\*
+1. **Para a montagem:**
 
 1. Passe um pouco de manteiga nas mãos, pegue uma porção da massa (dependendo qual seja o tamanho desejado da coxinha), faça uma bolinha e com o auxílio do dedo indicador faça uma cavidade na massa.
 
 1. Coloque uma porção do recheio e feche pinçando a boca da cavidade com a parte interna do polegar e do indicador.
 
-1. \*\*Para empanar:\*\*
+1. **Para empanar:**
 
 1. Misture a água e as claras, bata com o auxílio de um garfo por alguns minutos, junte o sal a farinha de trigo e bata até que as bolinhas de farinha desapareçam.
 
@@ -80,7 +80,7 @@
 
 1. Após terminar de empanar as coxinhas, repita a operação.
 
-1. \*\*Para fritar:\*\*
+1. **Para fritar:**
 
 1. Em um tacho ou panela funda, coloque óleo suficiente para cobrir a coxinha, deixe esquentar bem (190º a 200º C) e frite as coxinhas aos poucos para que o óleo não esfrie, o que pode fazer com que as coxinhas venham a rachar.
 
